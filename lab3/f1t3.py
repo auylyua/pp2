@@ -7,4 +7,8 @@ def solve(numheads, numlegs):
 
 numheads, numlegs=map(int,input().split())
 r = solve(numheads, numlegs)
-print(f"chickens, rabbits: {r}")
+if r:
+    chik,rab=r
+    print(f"chickens, rabbits: {r}")
+else:
+    print("No solution")
