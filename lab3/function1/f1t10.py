@@ -6,4 +6,4 @@ def uniq(lst):
     return list
 
 n = list(map(int, input().split()))
-print(uniq(input_list))
+print(uniq(n))
