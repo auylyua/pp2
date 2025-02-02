@@ -9,5 +9,5 @@ class rectang:
 length = float(input())
 width = float(input())
 rect = rectang(length, width)
-print("S", rect.area())
+print("S:", rect.area())
 print("P:", rect.perimeter())
