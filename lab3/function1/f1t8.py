@@ -3,5 +3,5 @@ def spy_game(nums):
         if nums[i:i+3] == [0, 0, 7]: 
             return True
     return False
-nums = list(map(int, input("Enter numbers separated by space: ").split()))
+nums = list(map(int, input().split()))
 print(spy_game(nums))
