@@ -1,0 +1,7 @@
+a ab abb abbbbbb b c apple a abb abbb abc abbbb abb abbb a hello_world
+python_is_fun
+Hello_world
+hello-123 Hello Python hello HELLO a123b a-xyz-b bxa abc
+hello world. How are you?
+hello_world_python 
+HelloWorldPython SplitByCaps HelloWorld PythonIsFun ConvertMe ToSnakeCase

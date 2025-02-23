@@ -1,3 +1,4 @@
 import re
-text = "hello_world python_is_fun snake_case 2nd defendens"
-print(re.findall(r'[a-z]+_[a-z]+', text))
+with open(r'C:\pp2\lab5\regex\t.txt') as file:
+    text = file.read() 
+print(re.findall(r'\b[a-z]+_[a-z]+', text))
